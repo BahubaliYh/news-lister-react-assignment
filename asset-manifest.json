@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news-lister-react-assignment/static/css/main.bd54f136.css",
+    "main.js": "/news-lister-react-assignment/static/js/main.c66fb639.js",
+    "static/js/787.ce3b6100.chunk.js": "/news-lister-react-assignment/static/js/787.ce3b6100.chunk.js",
+    "index.html": "/news-lister-react-assignment/index.html",
+    "main.bd54f136.css.map": "/news-lister-react-assignment/static/css/main.bd54f136.css.map",
+    "main.c66fb639.js.map": "/news-lister-react-assignment/static/js/main.c66fb639.js.map",
+    "787.ce3b6100.chunk.js.map": "/news-lister-react-assignment/static/js/787.ce3b6100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd54f136.css",
+    "static/js/main.c66fb639.js"
+  ]
+}
